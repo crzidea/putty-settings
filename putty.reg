@@ -2,6 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Default%20Settings]
 "Present"=dword:00000001
+"HostName"="10.2.24.41"
 "LogFileName"="putty.log"
 "LogType"=dword:00000000
 "LogFileClash"=dword:ffffffff
@@ -88,7 +89,7 @@ Windows Registry Editor Version 5.00
 "HideMousePtr"=dword:00000000
 "SunkenEdge"=dword:00000000
 "WindowBorder"=dword:00000001
-"CurType"=dword:00000002
+"CurType"=dword:00000000
 "BlinkCur"=dword:00000000
 "Beep"=dword:00000001
 "BeepInd"=dword:00000000
