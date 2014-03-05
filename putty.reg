@@ -11,7 +11,7 @@ Windows Registry Editor Version 5.00
 "Protocol"="ssh"
 "PortNumber"=dword:00000016
 "CloseOnExit"=dword:00000001
-"WarnOnClose"=dword:00000001
+"WarnOnClose"=dword:00000000
 "PingInterval"=dword:00000000
 "PingIntervalSecs"=dword:00000000
 "TCPNoDelay"=dword:00000001
@@ -30,7 +30,6 @@ Windows Registry Editor Version 5.00
 "ProxyPassword"=""
 "ProxyTelnetCommand"="connect %host %port\\n"
 "Environment"=""
-"UserName"=""
 "UserNameFromEnvironment"=dword:00000000
 "LocalUserName"=""
 "NoPTY"=dword:00000000
@@ -105,7 +104,6 @@ Windows Registry Editor Version 5.00
 "DisableArabicShaping"=dword:00000000
 "DisableBidi"=dword:00000000
 "WinNameAlways"=dword:00000001
-"WinTitle"="root@haio:~"
 "TermWidth"=dword:00000050
 "TermHeight"=dword:00000018
 "Font"="Courier New"
@@ -121,7 +119,7 @@ Windows Registry Editor Version 5.00
 "BoldAsColour"=dword:00000000
 "Colour0"="131,148,150"
 "Colour1"="147,161,161"
-"Colour2"="39,40,34"
+"Colour2"="29,31,33"
 "Colour3"="7,54,66"
 "Colour4"="0,43,54"
 "Colour5"="238,232,213"
