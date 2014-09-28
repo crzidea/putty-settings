@@ -12,7 +12,7 @@ Windows Registry Editor Version 5.00
 "PortNumber"=dword:00000016
 "CloseOnExit"=dword:00000001
 "WarnOnClose"=dword:00000000
-"PingInterval"=dword:00000000
+"PingInterval"=dword:00000001
 "PingIntervalSecs"=dword:00000000
 "TCPNoDelay"=dword:00000001
 "TCPKeepalives"=dword:00000000
@@ -207,4 +207,6 @@ Windows Registry Editor Version 5.00
 "Colour19"="85,255,255"
 "Colour20"="187,187,187"
 "Colour21"="255,255,255"
+"HostName"=""
+"WinTitle"=""
 
